@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discord Timed Message Sender", "Discord Timed Message Sender\Discord Timed Message Sender.csproj", "{F756D0E2-7B02-41AE-A92B-DCB78C941BB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F756D0E2-7B02-41AE-A92B-DCB78C941BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F756D0E2-7B02-41AE-A92B-DCB78C941BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F756D0E2-7B02-41AE-A92B-DCB78C941BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F756D0E2-7B02-41AE-A92B-DCB78C941BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADCB0724-E92D-4A4F-95F1-CE10BB0ABCD1}
+	EndGlobalSection
+EndGlobal
